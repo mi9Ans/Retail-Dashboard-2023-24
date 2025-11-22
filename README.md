@@ -9,14 +9,14 @@ Every page is designed with a clear purpose, maintaining clean UI/UX and profess
 
 **🚀 Key Features**
 
-*Executive KPI Overview (Sales, Profit, Orders, Quantity)  
-Product Category Contribution Analysis  
-Monthly Sales & Profit Trend  
-Customer Insights  
-Returning Customers  
-Multi-Order Customers  
-Gender-wise performance  
-Channel Analysis (Online vs Offline)  
-City-Level Sales & Profit Performance  
-Top Customer Revenue Contribution  
-One-Page Executive Summary with strategic recommendations  
+"*"Executive KPI Overview (Sales, Profit, Orders, Quantity)  
+"*"Product Category Contribution Analysis  
+"*"Monthly Sales & Profit Trend  
+"*"Customer Insights  
+    "*"Returning Customers  
+    "*"Multi-Order Customers  
+    "*"Gender-wise performance  
+"*"Channel Analysis (Online vs Offline)  
+"*"City-Level Sales & Profit Performance  
+"*"Top Customer Revenue Contribution  
+"*"One-Page Executive Summary with strategic recommendations  
