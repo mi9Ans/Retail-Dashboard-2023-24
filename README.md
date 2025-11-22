@@ -9,7 +9,7 @@ Every page is designed with a clear purpose, maintaining clean UI/UX and profess
 
 **🚀 Key Features**
 
-Executive KPI Overview (Sales, Profit, Orders, Quantity)  
+*Executive KPI Overview (Sales, Profit, Orders, Quantity)  
 Product Category Contribution Analysis  
 Monthly Sales & Profit Trend  
 Customer Insights  
